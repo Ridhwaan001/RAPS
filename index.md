@@ -1,7 +1,11 @@
 ### RAPS
 A team of 2 coding for fun
 
-## Projects
+### Notice
+This is **not** our main page. This page is mainly used to host assets for our projects. It may also be used as [RidhwaanCodesStuff's](http://github.com/RidhwaanCodesStuff) GitHub page.
+
+
+### Projects
 ARbot - A custom Discord bot designed specifically for a Discord server centred around a ROBLOX Flight Simulator. The source code is not publically available at the time of writing this.
 Built on Discord.js - http://wwww.discord.js.org
 
