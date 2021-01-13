@@ -1,1 +1,8 @@
-**Available Audio:** *`audio audio2 audio3 audio4 audio5`*
+**Available Audio Files**
+> !audio
+> !audio2
+> !audio3
+> !audio4
+> !audio5
+> !audio6
+> !audio7
